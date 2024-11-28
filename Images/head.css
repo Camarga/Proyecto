@@ -1,0 +1,21 @@
+/* Common nav styles */
+.navigation-wrapper {
+    height: 40px;
+    background-color: black;
+    color: white;
+    /* Flexbox container */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 100px;
+    grid-template-columns: 3fr 1fr 1fr;
+}
+
+.navigation-wrapper {
+    width: 1000px;
+    display: grid;
+    grid-template-columns: 1fr 3fr 4fr;
+    grid-gap: 100px;
+}
+
+

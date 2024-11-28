@@ -1,0 +1,17 @@
+.footer {
+    background-color: rgb(9, 8, 8);
+    color: #cbcbcb;
+    font-family: "Ubuntu Condensed", sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 120px;
+}
+
+#TEAMS, #EDUCATION, #PRIVACY, #WRITING {
+    background-color: dimgrey;
+    font-size: 1.85em;
+    color: white;
+    padding: 8px 15px;
+    border-color: gray;
+}

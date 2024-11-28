@@ -1,0 +1,26 @@
+.square-btn-wrapper > .btn {
+    background-color: green;
+    color: black;
+    font-size: 1em;
+    padding: 8px 15px;
+    border: 10px solid dimgrey;
+    border-radius: 2px;
+    outline: none;
+}
+
+#learn {
+    background-color: black;
+    color: white;
+    font-size: 1em;    
+    padding: 8px 15px;
+    border: 10px solid dimgrey;
+    outline: none;
+}
+
+
+
+
+
+
+
+

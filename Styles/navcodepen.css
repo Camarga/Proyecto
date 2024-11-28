@@ -1,0 +1,80 @@
+.navigation-wrapper {
+    height: 40px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 1px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.navigation-wrapper > .logo-column img {
+    padding: 0px 10px;
+    width: 200px;
+    height: 100%;
+}
+
+.navigation-wrapper > .icon i {
+    color: white;
+}
+
+h1 {
+    font-size: 1em;
+    color: yellow;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+h6 {
+    font-size: 1em;
+    color: grey;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+h2 {
+    color: white;
+    font-size: 1,5em;
+}
+
+h3 {
+    color: white;
+    font-size: 1,5em;
+}
+
+h4 {
+    color: white;
+    font-size: 1,5em;
+}
+
+h5 {
+    color: white;
+    font-size: 1,5em;
+}
+
+
+.icon-contact a {
+    color: #cbcbcb;
+}
+
+.navigation-wrapper #create {
+    background-color: dimgrey;
+    color: white;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navigation-wrapper #login {
+    background-color: dimgrey;
+    color: white;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navigation-wrapper #signup {
+    background-color: dimgrey;
+    color: white;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+
+
